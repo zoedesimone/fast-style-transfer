@@ -8,7 +8,7 @@ Add styles from famous paintings to any photo in a fraction of a second
 <img src = 'examples/images/example.png' height = '246px'>
 </p>
 
-You can test the method using our pretrained models using the [style of Monet]('examples/trained-models') or you can train your own model.
+You can test the method using our pretrained models using the [style of Monet](https://github.com/zoedesimone/fast-style-transfer/tree/main/examples/trained-models) or you can train your own model.
 
 ## Atrributions
 - The project borrowed some readme/docs from Justin Johnson's [Fast Neural Style](https://github.com/jcjohnson/fast-neural-style)
