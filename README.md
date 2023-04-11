@@ -1,4 +1,4 @@
-# Fast Neural Style Transfer in PyTorch in [Colab](https://colab.research.google.com/drive/1JHAhTrDtZjd2BqE5z_Mg8LtmQLFza5ln?usp=sharing)
+# Fast Neural Style Transfer in PyTorch in [Colab](https://colab.research.google.com/drive/1JHAhTrDtZjd2BqE5z_Mg8LtmQLFza5ln?usp=sharing) 👩‍💻🖌️
 
 The implementation is based on the paper [Perceptual losses for real-time style transfer and super-resolution](https://arxiv.org/abs/1603.08155) by Johnson et al. (2016). 
 
